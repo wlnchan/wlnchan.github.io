@@ -1,0 +1,22 @@
+body {
+    font-family: system-ui, sans-serif;
+    margin: 2rem;
+    background: #fdfdfd;
+    color: #222;
+    max-width: 800px;
+    line-height: 1.6;
+  }
+  
+  a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
